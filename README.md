@@ -2,8 +2,6 @@
 
 Una página web simple con una estructura básica perfecta para proyectos de inicio o páginas de presentación.
 
-🎥 [Vista del Proyecto](#)
-
 ## 🌟 Características Principales
 
 - **Diseño 100% adaptable** 
