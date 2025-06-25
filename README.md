@@ -26,11 +26,6 @@ Probado exhaustivamente en:
 - Dispositivos iOS/Android
 - Tablets y pantallas grandes
 
-## 🎨 Vista Previa
-
-### Desktop
-![Vista Desktop](#)
-
 
 ## 🔮 Roadmap Futuro
 
