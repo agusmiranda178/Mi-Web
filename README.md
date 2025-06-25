@@ -41,4 +41,4 @@ MIT License - Usa libremente en tus proyectos
 
 ---
 
-**Nota Final:** Esta página web ha sido diseñada pensando en la simplicidad, accesibilidad y adaptabilidad. Es una excelente base para proyectos más complejos. ¡Siéntete libre de adaptarla a tus necesidades! ✨
+**Nota Final:** Esta página web ha sido diseñada pensando en la simplicidad, accesibilidad y adaptabilidad. Es una excelente base para proyectos más complejos. ¡Sentite libre de adaptarla a tus necesidades! ✨
